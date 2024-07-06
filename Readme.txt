@@ -1,0 +1,1 @@
+A robust inventory management system developed in C# and SQL for a client in Kamra. This application features comprehensive inventory tracking, bill printing, and numerous other capabilities to streamline business operations.
